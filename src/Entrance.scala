@@ -19,7 +19,7 @@ object Entrance {
       case(id , (username,rank)) => (username,rank)
     }
     //
-    println(ranksByUsername.collect().mkString("\n"))
+//    println(ranksByUsername.collect().mkString("\n"))
 
 
   }
